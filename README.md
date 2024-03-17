@@ -14,20 +14,34 @@ Evaluation of marketing strategies and promotions using statistical tests and vi
 Objective: Conduct a comparative analysis between a trial store and control stores to evaluate the impact of interventions or changes.
 # Key Steps:
 Comparative analysis of pre-trial and post-trial performance metrics
+
 Statistical methods such as correlation analysis and t-tests
+
 Assessment of sales, customer engagement, and market share growth
+
 Determination of intervention success based on performance differences
+
 Repository Structure
 task_1_data_preparation_and_customer_analytics.py: Python script for Task 1 exploratory data analysis.
-experimentation_and_uplift_testing .py: Python script for Task 2 comparative analysis and performance evaluation.
+
+experimentation_and_uplift_testing.py: Python script for Task 2 comparative analysis and performance evaluation.
+
 transaction_data.csv: Sample transaction data used for analysis.
+
 customer_data.csv: Sample customer data used for analysis.
+
 README.md: Description of the project, tasks, and repository structure.
+
 Usage
+
 Clone the repository to your local machine.
+
 Ensure you have Python installed along with the necessary libraries (Pandas, NumPy, Matplotlib, Seaborn, etc.).
-Run the task1_code.py script for exploratory data analysis.
-Run the task2_code.py script for comparative analysis and performance evaluation.
+
+Run the task_1_data_preparation_and_customer_analytics.py script for exploratory data analysis.
+
+Run the experimentation_and_uplift_testing.py script for comparative analysis and performance evaluation.
+
 License
 This project is licensed under the MIT License.
 
