@@ -44,5 +44,3 @@ Run the experimentation_and_uplift_testing.py script for comparative analysis an
 
 License
 This project is licensed under the MIT License.
-
-Feel free to customize the README according to your project's specifics and add any additional sections or information as needed.
